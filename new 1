@@ -1,0 +1,17 @@
+
+
+Listo
+ ahora si, que es lo que pasa?
+ quiero agregar informacion a las carpetas de nombre direccion y telefono
+ en el trabajo me dieron dos y ya las agregue
+ pero luego me dicen q yo debo agregar 5 mas
+ lo hago y me sale una x de error
+ 
+ 
+ git init
+ git status
+ git add .
+ git commit -m "first commit"
+ git branch -M main
+git remote add origin https://github.com/LeydysVega16/Programa-git.git
+git push -u origin main 
